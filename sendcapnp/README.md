@@ -1,0 +1,1 @@
+Serialize Cap'n proto, send through ZMQ, deserialize data.
