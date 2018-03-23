@@ -2,8 +2,8 @@
 
 [CZMQ](http://czmq.zeromq.org) is an awesome networking library with tons of useful functions. This repository aims to provide non-trivial examples how to squeeze more from the CZMQ API for your projects.
 
-## Requirements
 
+## Requirements
 - Installed ZMQ and CZMQ
 - Installed Cap'n proto
 
